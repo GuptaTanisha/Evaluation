@@ -1,0 +1,15 @@
+.cardDiv{
+    display: flex;
+    justify-content: flex-star;
+  align-items: flex-start;
+  }
+  .mainDiv{
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  .card{
+    padding-left: 15px;
+  }
+  .cardTypography{
+    display: 'inline';
+  }
